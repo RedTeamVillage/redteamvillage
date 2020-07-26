@@ -107,12 +107,12 @@ input, select, textarea {
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #e44c65;
+		color: #c92223;
 		text-decoration: none;
 	}
 
 		a:hover {
-			color: #e44c65 !important;
+			color: #c92223 !important;
 			border-bottom-color: transparent;
 		}
 
@@ -2178,7 +2178,7 @@ input, select, textarea {
 	}
 
 		header.major:after {
-			background: #ff3546;
+			background: #c92223;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
@@ -3160,7 +3160,7 @@ input, select, textarea {
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0 4em 0;
+		padding: 3em 0 2em 0;
 	}
 
 		.wrapper.style2 {
