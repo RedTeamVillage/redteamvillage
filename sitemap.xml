@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://redteamvillage.org/</loc>
+	<lastmod>2020-09-22T22:06:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/index.html</loc>
+	<lastmod>2020-09-22T22:06:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/events.html</loc>
+	<lastmod>2020-09-22T22:06:10+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/ctf.html</loc>
+	<lastmod>2020-09-22T22:06:10+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/cfp.html</loc>
+	<lastmod>2020-09-22T22:06:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/about.html</loc>
+	<lastmod>2020-09-22T22:06:11+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/Red-Team-Village-ROOTCON-2020.html</loc>
+	<lastmod>2020-09-22T22:06:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/Red-Team-Village-c0c0n-2020.html</loc>
+	<lastmod>2020-09-22T22:06:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/Red-Team-Village-The-diana-initiative-2020.html</loc>
+	<lastmod>2020-09-22T22:06:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/images/c0c0n-2020/c0c0n_2020_Red_Team_village_Agenda_Final.pdf</loc>
+	<lastmod>2020-09-22T22:06:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/slides/Godha-Bapuji-Diana-Initiative-Red-Team-Village-Aug2020.pdf</loc>
+	<lastmod>2020-09-22T22:06:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/slides/Jaswinder-kaur-Diana-Initiative-Red-Team-Village-Aug2020-Move-left-in-the-SDLC.pdf</loc>
+	<lastmod>2020-09-22T22:06:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/slides/Deploying_Discreet_Infrastructure_For_Targeted_Phishing_Campaigns.pdf</loc>
+	<lastmod>2020-09-22T22:06:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/slides/Offensive-GraphQL-API-Exploitation.pdf</loc>
+	<lastmod>2020-09-22T22:06:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/slides/Abhijith-b-r-Diana-Initiative-Red-Team-Village-Aug2020-Tactical-Adversary-building-internal-red-team.pdf</loc>
+	<lastmod>2020-09-22T22:06:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://redteamvillage.org/discord/</loc>
+	<lastmod>2020-09-22T22:06:16+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
