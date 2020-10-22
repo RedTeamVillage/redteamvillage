@@ -146,7 +146,7 @@ input, select, textarea {
 	h2 {
 		font-size: 2em;
 		line-height: 1.5em;
-		letter-spacing: -0.025em;
+		letter-spacing: 0.08em;
 	}
 
 	h3 {
@@ -2859,11 +2859,20 @@ input, select, textarea {
 			font-size: 1.35em;
 		}
 
+		input[type="submit"].primary1,
+		input[type="reset"].primary1,
+		input[type="button"].primary1,
+		.button.primary1 {
+			background-color: #0d50e6;
+			box-shadow: none;
+			color: #ffffff !important;
+		}
+		
 		input[type="submit"].primary,
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #e44c65;
+			background-color: #ff002a;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -2872,14 +2881,29 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #ff3546;
+				background-color: #e44c65;
 			}
 
+			input[type="submit"].primary1:hover,
+			input[type="reset"].primary1:hover,
+			input[type="button"].primary1:hover,
+			.button.primary1:hover {
+				background-color: #578bff;
+			}
+			
+			input[type="submit"].primary1:active,
+			input[type="reset"].primary1:active,
+			input[type="button"].primary1:active,
+			.button.primary1:active {
+				background-color: #01319c;
+			}
+			
+			
 			input[type="submit"].primary:active,
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #e13652;
+				background-color: #ae0722;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -4020,7 +4044,7 @@ input, select, textarea {
 			input[type="reset"],
 			input[type="button"],
 			.button {
-				padding: 0;
+				padding: auto;
 			}
 
 		/* Spotlight */
